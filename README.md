@@ -2,7 +2,8 @@
 <h3>Benvingut/da, aquest és el meu perfil de GitHub!! Visc a L'Aldea un poble de les Terres de L'Ebre i tinc 20 anys!</h3>
 
 
-Estic estudian 1r ASIX-DAM, al IES Ebre de Tortosa
+<p align="left">
+Estic estudian 1r ASIX-DAM, al IES Ebre de Tortosa</p>
 M'agrada molt l'esport, sobretot el futbol i jugo al filial del C.F. Camarles
 El meu menja preferit es la calzone solo carne de ternera
 El meu correu és: jbayo@iesebre.com
