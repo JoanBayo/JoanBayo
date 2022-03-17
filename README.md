@@ -4,9 +4,12 @@
 
 <p align="left">
 Estic estudian 1r ASIX-DAM, al IES Ebre de Tortosa</p>
-M'agrada molt l'esport, sobretot el futbol i jugo al filial del C.F. Camarles
-El meu menja preferit es la calzone solo carne de ternera
-El meu correu és: jbayo@iesebre.com
+<p align="left">
+M'agrada molt l'esport, sobretot el futbol i jugo al filial del C.F. Camarles</p>
+<p align="left">
+El meu menja preferit es la calzone solo carne de ternera</p>
+<p align="left">
+El meu correu és: jbayo@iesebre.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
