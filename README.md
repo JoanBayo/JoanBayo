@@ -2,6 +2,7 @@
 <h3>Benvingut/da, aquest és el meu perfil de GitHub!! Visc a L'Aldea un poble de les Terres de L'Ebre i tinc 20 anys!</h3>
 
 <h3 align="left">Connect with me:</h3>
+Estic estudian 1r ASIX-DAM, al IES Ebre de Tortosa
 <p align="left">
 <a href="https://twitter.com/joanbayo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joanbayo_" height="30" width="40" /></a>
 <a href="https://instagram.com/joanbayo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joanbayo_" height="30" width="40" /></a>
