@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Joan Bayo Benito</h1>
-<h3>Benvingut/da, aquest és el meu perfil de GitHub!! Visc a L'Aldea un poble de les Terres de L'Ebre i tinc 20 anys!</h3>
+<h3>Benvingut/da, aquest és el meu perfil de GitHub!! Visc a L'Aldea un poble de les Terres de L'Ebre i tinc 20 anys!🔥</h3>
 
 
 <p align="left">
-Estic estudian 1r ASIX-DAM, al IES Ebre de Tortosa</p>
+📖 Estic estudian 1r ASIX-DAM, al IES Ebre de Tortosa</p>
 <p align="left">
-M'agrada molt l'esport, sobretot el futbol i jugo al filial del C.F. Camarles</p>
+⚽ M'agrada molt l'esport, sobretot el futbol i jugo al filial del C.F. Camarles</p>
 <p align="left">
-El meu menja preferit es la calzone solo carne de ternera</p>
+🍖 El meu menja preferit es la calzone solo carne de ternera</p>
 <p align="left">
-El meu correu és: jbayo@iesebre.com</p>
+📨 El meu correu és: jbayo@iesebre.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
