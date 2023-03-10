@@ -12,12 +12,9 @@
 
 
 <p align="left">
-📖  Estic estudiant 1r ASIX-DAM, al IES Ebre de Tortosa</p>
+📖  Estic estudiant 2r DAM, al IES Ebre de Tortosa</p>
 <p align="left">
 ⚽  M'agrada molt l'esport, sobretot el futbol i jugo al filial del C.F. Camarles</p>
-<p align="left">
-🍖  El meu menjar preferit es la calzone solo carne de ternera</p>
-<p align="left">
 📨  El meu correu és: jbayo@iesebre.com</p>
 
 <h3 align="left">Connect with me:</h3>
